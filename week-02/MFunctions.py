@@ -26,6 +26,7 @@ class MFunction():
 
     def BMI():
         bmi = float(input("Please Enter the BMI index:"))
+        print("BMI:",bmi)
         if(bmi < 18.5):
             print("Underweight")
             message="Underweight"
