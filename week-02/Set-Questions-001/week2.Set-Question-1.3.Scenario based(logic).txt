@@ -1,0 +1,123 @@
+Section 1: Multiple Choice Questions (MCQs)
+1.	What is the purpose of a programming language?
+○	a) To make coffee
+○	b) To communicate with computers
+○	c) To paint pictures
+○	d) To browse the internet
+
+Ans: b) To communicate with computers
+
+2.	Which of the following is a Python variable naming convention?
+○	a) Variable names can start with a number
+○	b) Variable names can contain spaces
+○	c) Variable names are case-sensitive
+○	d) Variable names cannot include underscores
+
+Ans: c) Variable names are case-sensitive
+
+3.	What does the print() function do in Python?
+○	a) Saves a file
+○	b) Displays output to the screen
+○	c) Takes user input
+○	d) Terminates the program
+
+Ans: b) Displays output to the screen
+
+4.	What is the correct syntax to take user input in Python?
+○	a) input("Enter your name:")
+○	b) scan("Enter your name:")
+○	c) read("Enter your name:")
+○	d) get("Enter your name:")
+
+Ans: a) input("Enter your name:")
+
+5.	Which of the following is used for loops in Python?
+○	a) for
+○	b) while
+○	c) Both a and b
+○	d) None of the above
+
+Ans: c) Both a and b
+
+6.	What symbol is used to indicate a comment in Python?
+○	a) //
+○	b) /* */
+○	c) #
+○	d) --
+
+Ans: c) #
+
+7.	Which data type is used to store a sequence of characters in Python?
+○	a) int
+○	b) float
+○	c) string
+○	d) boolean
+
+Ans: c) string
+
+8.	What keyword is used to define a function in Python?
+○	a) define
+○	b) func
+○	c) def
+○	d) function
+
+Ans: c) def
+
+9.	What will len([1, 2, 3, 4]) return?
+○	a) 3
+○	b) 4
+○	c) 5
+○	d) Error
+
+Ans: b) 4
+
+10.	How do you create an infinite loop in Python?
+○	a) while True:
+○	b) for i in range(1000000):
+○	c) while (i < 10):
+○	d) loop forever:
+
+Ans: a) while True:
+
+11.What will be the output of print(3 * "abc")?
+●	a) abcabcabc
+●	b) abc*3
+●	c) abc abc abc
+●	d) Error
+
+Ans: a) abcabcabc
+
+12.Which of the following statements about Python lists is true?
+●	a) Lists are immutable
+●	b) Lists can store different data types
+●	c) Lists must have unique elements
+●	d) Lists cannot be modified once created
+
+Ans: b) Lists can store different data types
+
+13. What will bool([]) return?
+●	a) True
+●	b) False
+●	c) None
+●	d) Error
+
+Ans: b) False
+
+14.How do you correctly open a file named data.txt for writing in Python?
+●	a) open("data.txt", "r")
+●	b) open("data.txt", "w")
+●	c) open("data.txt", "a")
+●	d) open("data.txt", "x")
+
+Ans: b) open("data.txt", "w")
+
+15.What does list(range(3)) return?
+●	a) [0, 1, 2]
+●	b) [1, 2, 3]
+●	c) [0, 1, 2, 3]
+●	d) range(3)
+ 
+Ans: a) [0, 1, 2]
+
+
+
